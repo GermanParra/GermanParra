@@ -5,12 +5,11 @@
   - I'm looking forward to 
 
 ## Connect with me:
-| [Linkedin] | [Codesignal] | [Medium] | [Email] |
-|-|-|-|-|
-| [<img width="50px" src="img\Linkedin.png" />][Linkedin] | [<img width="50px" src="img\Codesignal.png" />][Codesignal] | [<img width="50px" src="img\Medium.png" />][Medium] | [<img width="50px" src="img\email.webp" />][Email] |
+| [Linkedin] | [Codesignal] | [Medium] |
+|-|-|-|
+| [<img width="50px" src="img\Linkedin.png" />][Linkedin] | [<img width="50px" src="img\Codesignal.png" />][Codesignal] | [<img width="50px" src="img\Medium.png" />][Medium] | 
 
 [Bloomtech]: https://www.bloomtech.com/courses/data-science
 [Linkedin]: https://www.linkedin.com/in/germanparra1/
 [Codesignal]: https://app.codesignal.com/profile/germanparra
 [Medium]: https://medium.com/@gerpar13
-[Email]: gerpar13@gmail.com
