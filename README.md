@@ -8,7 +8,7 @@
   - **Present:**
     - 👨‍🎓 I'm finishing my studies at [Bloom Institute of Thecnology][Bloomtech]
     - 💼 I'm currently seeking to work with a great company where I can keep expanding my knowledge and grow every day
-    - 📈 I'm full-time dedicated to growing in my knowledge as a Data Scientist
+    - 📈 I'm dedicated full-time to grow in my knowledge as a Data Scientist
   - **Future:**
     - 🚵🏼 I'm a life-long learner focused on becoming the best version of itself
     - 👨🏼‍🍳 I believe discipline and good habits are the recipes for success
