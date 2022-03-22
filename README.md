@@ -2,21 +2,21 @@
 
 ## **I'm a Data Scientist passionate about ML, AI, and statistics:**
   - **Roots:**
-      - I come from a wonderful big family
-      - I had the best childhood growing up in a farm environment
-      - I'm originally from Maracay-Venezuela
+      - 👨‍👩‍👦‍👦 I come from a wonderful big family
+      - 👨🏻‍🌾 I had the best childhood growing up in a farm environment
+      - 🗺️ I'm originally from Maracay-Venezuela
   - **Present:**
-    - I'm finishing my studies at [Bloom Institute of Thecnology][Bloomtech]
-    - I'm currently seeking to work with a great company where I can keep expanding my knowledge and grow every day
-    - I'm full-time dedicated to growing in my knowledge as a Data Scientist
+    - 👨‍🎓 I'm finishing my studies at [Bloom Institute of Thecnology][Bloomtech]
+    - 💼 I'm currently seeking to work with a great company where I can keep expanding my knowledge and grow every day
+    - 📈 I'm full-time dedicated to growing in my knowledge as a Data Scientist
   - **Future:**
-    - I'm a life-long learner focused on becoming the best version of itself
-    - I believe discipline and good habits are the recipes for success
-    - I'm convinced that AI and ML technologies and innovations can take us to the next level in our evolution as humankind  
+    - 🚵🏼 I'm a life-long learner focused on becoming the best version of itself
+    - 👨🏼‍🍳 I believe discipline and good habits are the recipes for success
+    - 🧬 I'm convinced that AI and ML technologies and innovations can take us to the next level in our evolution as humankind  
   - **Fun facts:**
-      - I'm writing a book
-      - I love to dance Salsa and play the guitar
-      - I'm a Disney fan
+      - ✍🏻 I'm writing a book
+      - 🕺🎸 I love to dance Salsa and play the guitar
+      - 🏰 I'm a Disney fan
   
  
 
