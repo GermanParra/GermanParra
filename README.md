@@ -2,7 +2,7 @@
 
 ## **I'm a Data Scientist passionate about ML, AI, and statistics:**
   - **Roots:**
-      - I come from a great and big family
+      - I come from a wonderful big family
       - I had the best childhood growing up in a farm environment
       - I'm originally from Maracay-Venezuela
   - **Present:**
