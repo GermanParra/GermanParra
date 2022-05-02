@@ -6,7 +6,7 @@
       - 👨🏻‍🌾 I had the best childhood growing up in a farm environment
       - 🗺️ I'm originally from Maracay-Venezuela
   - **Present:**
-    - 👨‍🎓 I'm working for UnderdogDevs.org (Non-profit Organization) as part of my studies at [Bloom Institute of Thecnology][Bloomtech]
+    - 👨‍🎓 I'm working for UnderdogDevs.org (Non-profit Organization) as part of my studies at [Bloom Institute of Technology][Bloomtech]
     - 💼 I'm seeking to work with a great company where I can keep expanding my knowledge and grow every day
     - 📈 I'm dedicated full-time to grow in my knowledge as a Data Scientist
   - **Future:**
