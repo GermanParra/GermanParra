@@ -6,7 +6,7 @@
       - 👨🏻‍🌾 I had the best childhood growing up in a farm environment
       - 🗺️ I'm originally from Maracay-Venezuela
   - **Present:**
-    - 👨‍🎓 I Graduated from [Bloom Institute of Technology][Bloomtech] as a Data Scientist :tada::tada:
+    - 👨‍🎓 I have graduated from [Bloom Institute of Technology][Bloomtech] as a Data Scientist!! :tada::tada:
     - 💼 I'm seeking to work with a great company where I can keep expanding my knowledge and grow every day
     - 📈 I'm dedicated full-time to keep growing in my knowledge as a Data Scientist
   - **Future:**
