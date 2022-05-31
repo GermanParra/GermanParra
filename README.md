@@ -6,7 +6,7 @@
       - 👨🏻‍🌾 I had the best childhood growing up in a farm environment
       - 🗺️ I'm originally from Maracay-Venezuela
   - **Present:**
-    - 👨‍🎓 I have graduated from [Bloom Institute of Technology][Bloomtech] as a Data Scientist!! :tada::tada:
+    - 👨‍🎓 I have graduated from [Bloom Institute of Technology][Bloomtech] as a Data Scientist!! :tada::tada: [Certificate-Bloomtech][Certificate]
     - 💼 I'm seeking to work with a great company where I can keep expanding my knowledge and grow every day
     - 📈 I'm dedicated full-time to keep growing in my knowledge as a Data Scientist
   - **Future:**
@@ -39,3 +39,4 @@
 [Linkedin]: https://www.linkedin.com/in/germanparra1/
 [Codesignal]: https://app.codesignal.com/profile/germanparra
 [Medium]: https://medium.com/@gerpar13
+[Certificate-Bloomtech]: https://www.credly.com/badges/04215b61-aa25-4ec5-b8aa-ff40dc16ac44?source=linked_in_profile
