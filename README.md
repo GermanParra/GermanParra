@@ -7,16 +7,17 @@
       - 🗺️ I'm originally from Maracay-Venezuela
   - **Present:**
     - 👨‍🎓 I have graduated from [Bloom Institute of Technology][Bloomtech] as a Data Scientist!! --> [:tada: Certificate :tada:][Certificate-Bloomtech]
-    - 💼 I'm seeking to work with a great company where I can keep expanding my knowledge and grow every day
-    - 📈 I'm dedicated full-time to keep growing in my knowledge as a Data Scientist
+    - 💼 I'm currently working at [MotiveMetrics, Inc.][MotiveMetrics] as a Junior Data Scientist
+    - :books: I'm studying part-time to get the AWS Cloud Practitioner Certification
   - **Future:**
     - 🚵🏼 I'm a life-long learner focused on becoming the best version of itself
     - 👨🏼‍🍳 I believe discipline and good habits are the recipes for success
     - 🧬 I'm convinced that AI and ML technologies and innovations can take us to the next level in our evolution as humankind  
   - **Fun facts:**
       - ✍🏻 I'm writing a book
+      - :pizza: I'm studying Italian part-time
       - 🕺🎸 I love to dance Salsa and play the guitar
-      - 🏰 I'm a Disney fan
+      - 🏰 I'm a Disney and [Hamilton] fan
   
  
 
@@ -39,4 +40,6 @@
 [Linkedin]: https://www.linkedin.com/in/germanparra1/
 [Codesignal]: https://app.codesignal.com/profile/germanparra
 [Medium]: https://medium.com/@gerpar13
+[MotiveMetrics]: http://www.motivemetrics.com/
 [Certificate-Bloomtech]: https://www.credly.com/badges/04215b61-aa25-4ec5-b8aa-ff40dc16ac44?source=linked_in_profile
+[Hamilton]: https://en.wikipedia.org/wiki/Hamilton_(musical)
